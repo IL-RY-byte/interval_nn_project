@@ -1,0 +1,2 @@
+depth,clean,clean_std,cert0.05,cert0.05_std,attack0.05,attack0.05_std,cert0.1,cert0.1_std,attack0.1,attack0.1_std
+10,0.2279,0.1863,0.0386,0.0442,0.0733,0.0833,0.0223,0.0386,0.0267,0.0462
